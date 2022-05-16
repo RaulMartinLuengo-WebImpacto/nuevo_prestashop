@@ -1,0 +1,13 @@
+4a542b,::1,GET,https://localhost/prestashop/admin576auqsvk/index.php/improve/modules/manage?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU,1652692418,,200
+1cb02f,::1,POST,https://localhost/prestashop/admin576auqsvk/index.php/common/notifications?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU,1652692420,,200
+d962b4,::1,POST,https://localhost/prestashop/admin576auqsvk/index.php/common/notifications?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU&rand=1652692419029,1652692420,,200
+bb06cb,::1,GET,https://localhost/prestashop/admin576auqsvk/index.php/improve/modules/alerts/count?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU,1652692420,,200
+6e23e6,::1,GET,https://localhost/prestashop/admin576auqsvk/index.php/improve/modules/manage/action/configure/productcomments?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU,1652692485,,302
+74b522,::1,POST,https://localhost/prestashop/admin576auqsvk/index.php/common/notifications?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU&rand=1652692491729,1652692492,,200
+90293a,::1,POST,https://localhost/prestashop/admin576auqsvk/index.php/common/notifications?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU&rand=1652692491717,1652692492,,200
+6a90f7,::1,POST,https://localhost/prestashop/admin576auqsvk/index.php/common/notifications?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU&rand=1652692612829,1652692617,,200
+58a4b9,::1,POST,https://localhost/prestashop/admin576auqsvk/index.php/common/notifications?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU&rand=1652692613839,1652692617,,200
+809853,::1,GET,https://localhost/prestashop/admin576auqsvk/index.php/configure/advanced/performance/?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU,1652692629,,200
+5eec56,::1,POST,https://localhost/prestashop/admin576auqsvk/index.php/common/notifications?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU,1652692630,,200
+d1b80b,::1,POST,https://localhost/prestashop/admin576auqsvk/index.php/common/notifications?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU&rand=1652692629544,1652692630,,200
+6faf8e,::1,POST,https://localhost/prestashop/admin576auqsvk/index.php/configure/advanced/performance/debug-mode?_token=pXfyvv0azIB_ZER_yCDyIkK0VJH6sGOfq30mJzsMHbU,1652692633,,302

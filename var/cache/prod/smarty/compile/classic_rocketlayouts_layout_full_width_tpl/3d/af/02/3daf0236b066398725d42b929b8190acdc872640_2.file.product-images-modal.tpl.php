@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-12 13:12:49
+/* Smarty version 3.1.43, created on 2022-05-16 11:20:46
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\themes\classic-rocket\templates\catalog\_partials\product-images-modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_627cebb161a466_15400094',
+  'unifunc' => 'content_6282176e623486_58181676',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_627cebb161a466_15400094 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6282176e623486_58181676 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal fade js-product-images-modal" id="product-modal">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">

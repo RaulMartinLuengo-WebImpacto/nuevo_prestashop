@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-12 13:12:47
+/* Smarty version 3.1.43, created on 2022-05-16 11:20:45
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\modules\ps_checkout\views\templates\hook\displayProductPriceBlock.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_627cebaf85bd39_58121599',
+  'unifunc' => 'content_6282176d258395_87082796',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_627cebaf85bd39_58121599 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6282176d258395_87082796 (Smarty_Internal_Template $_smarty_tpl) {
 if ((isset($_smarty_tpl->tpl_vars['totalCartPrice']->value)) && $_smarty_tpl->tpl_vars['payIn4XisProductPageEnabled']->value == true) {?>
   <?php if (!(isset($_smarty_tpl->tpl_vars['content_only']->value)) || $_smarty_tpl->tpl_vars['content_only']->value === 0) {?>
     <div id="ps-checkout-pp-message-container"

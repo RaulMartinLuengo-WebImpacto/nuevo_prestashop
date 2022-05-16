@@ -3258,6 +3258,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 63 => 'importarCsv',
                 64 => 'ps_searchbarjqauto',
                 65 => 'clima',
+                66 => 'ps_categoryproducts',
             ],
             'ps_cache_dir' => 'C:\\WebImpacto\\Xampp\\htdocs\\prestashop/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',

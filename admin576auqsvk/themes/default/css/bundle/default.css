@@ -88,7 +88,7 @@ span.spacer {
 }
 #form .navbar-form-footer{
   padding:15px;
-  border-top: 1px solid #ccc !important;
+  border-top: 1px solid rgb(255, 255, 255) !important;
   z-index: 400 !important;
 }
 #form .form-action-bar{

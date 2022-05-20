@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:20:45
+/* Smarty version 3.1.43, created on 2022-05-20 09:09:20
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\themes\classic-rocket\templates\catalog\_partials\product-discounts.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282176d4b1550_58017101',
+  'unifunc' => 'content_62873ea05bdb71_58208113',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6ca681dff8592ffe62e4573e78397914965ca455' => 
     array (
       0 => 'C:\\WebImpacto\\Xampp\\htdocs\\prestashop\\themes\\classic-rocket\\templates\\catalog\\_partials\\product-discounts.tpl',
-      1 => 1651826369,
+      1 => 1652772155,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6282176d4b1550_58017101 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62873ea05bdb71_58208113 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 if ($_smarty_tpl->tpl_vars['product']->value['quantity_discounts']) {?>
@@ -28,19 +28,19 @@ if ($_smarty_tpl->tpl_vars['product']->value['quantity_discounts']) {?>
     <p class="h4 product-discounts-title"><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Volume discounts','d'=>'Shop.Theme.Catalog'),$_smarty_tpl ) );?>
 </p>
     <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_16680872006282176d4a8e71_60215432', 'product_discount_table');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_161624347662873ea05b5958_98932360', 'product_discount_table');
 ?>
 
 </section>
 <?php }
 }
 /* {block 'product_discount_table'} */
-class Block_16680872006282176d4a8e71_60215432 extends Smarty_Internal_Block
+class Block_161624347662873ea05b5958_98932360 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'product_discount_table' => 
   array (
-    0 => 'Block_16680872006282176d4a8e71_60215432',
+    0 => 'Block_161624347662873ea05b5958_98932360',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

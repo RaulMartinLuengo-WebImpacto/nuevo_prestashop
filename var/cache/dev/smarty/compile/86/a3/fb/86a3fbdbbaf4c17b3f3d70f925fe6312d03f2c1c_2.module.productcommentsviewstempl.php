@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:17:01
+/* Smarty version 3.1.43, created on 2022-05-19 12:21:24
   from 'module:productcommentsviewstempl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282168d082bd3_65473244',
+  'unifunc' => 'content_62861a245a46b3_04541006',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '86a3fbdbbaf4c17b3f3d70f925fe6312d03f2c1c' => 
     array (
       0 => 'module:productcommentsviewstempl',
-      1 => 1651826369,
+      1 => 1652772155,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6282168d082bd3_65473244 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62861a245a46b3_04541006 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\WebImpacto\Xampp\htdocs\prestashop/themes/classic-rocket/modules/productcomments/views/templates/hook/product-comment-item-prototype.tpl -->
 <div class="product-comment-list-item" data-product-comment-id="@COMMENT_ID@" data-product-id="@PRODUCT_ID@">
   <div class="row">

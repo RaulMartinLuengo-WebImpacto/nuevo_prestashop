@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:20:44
+/* Smarty version 3.1.43, created on 2022-05-20 09:09:19
   from 'module:pscustomersigninpscustome' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282176c73e3d9_52787640',
+  'unifunc' => 'content_62873e9f5c1a99_88050681',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd5f8f570180f74d1dbdd1a1d2af0445e90a6650c' => 
     array (
       0 => 'module:pscustomersigninpscustome',
-      1 => 1651826369,
+      1 => 1652772155,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6282176c73e3d9_52787640 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62873e9f5c1a99_88050681 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="user-info header__rightitem">
   <?php if ($_smarty_tpl->tpl_vars['logged']->value) {?>
     <a

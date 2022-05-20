@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:16:45
+/* Smarty version 3.1.43, created on 2022-05-18 12:22:00
   from 'module:pscustomersigninpscustome' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282167d5096f3_32262222',
+  'unifunc' => 'content_6284c8c8ebc6d7_39110793',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd5f8f570180f74d1dbdd1a1d2af0445e90a6650c' => 
     array (
       0 => 'module:pscustomersigninpscustome',
-      1 => 1651826369,
+      1 => 1652772155,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6282167d5096f3_32262222 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6284c8c8ebc6d7_39110793 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\WebImpacto\Xampp\htdocs\prestashop/themes/classic-rocket/modules/ps_customersignin/ps_customersignin.tpl --><div class="user-info header__rightitem">
   <?php if ($_smarty_tpl->tpl_vars['logged']->value) {?>
     <a

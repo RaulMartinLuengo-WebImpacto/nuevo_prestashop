@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:20:45
+/* Smarty version 3.1.43, created on 2022-05-20 09:09:21
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\themes\classic-rocket\templates\catalog\_partials\product-tabs.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282176da69713_58523324',
+  'unifunc' => 'content_62873ea13c7aa0_14396689',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '245bc6d856b49e80d5ecbe96094ebfa3ce3993d2' => 
     array (
       0 => 'C:\\WebImpacto\\Xampp\\htdocs\\prestashop\\themes\\classic-rocket\\templates\\catalog\\_partials\\product-tabs.tpl',
-      1 => 1651826369,
+      1 => 1652772155,
       2 => 'file',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/product-details.tpl' => 1,
   ),
 ),false)) {
-function content_6282176da69713_58523324 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62873ea13c7aa0_14396689 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
@@ -85,18 +85,18 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
         <div class="tab-content" id="tab-content">
             <div class="tab-pane fade<?php if ($_smarty_tpl->tpl_vars['product']->value['description']) {?> show active<?php }?>" id="description" role="tabpanel">
                 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_14465491816282176da5cef4_29538005', 'product_description');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_92161884562873ea13b5220_33666761', 'product_description');
 ?>
 
             </div>
 
             <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_8893417586282176da5e128_25635026', 'product_details');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_155259523562873ea13b6480_36036074', 'product_details');
 ?>
 
 
             <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_15712542016282176da5eda4_63850453', 'product_attachments');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_121681072962873ea13b9074_51759221', 'product_attachments');
 ?>
 
 
@@ -127,12 +127,12 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
     </div>
     </div><?php }
 /* {block 'product_description'} */
-class Block_14465491816282176da5cef4_29538005 extends Smarty_Internal_Block
+class Block_92161884562873ea13b5220_33666761 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'product_description' => 
   array (
-    0 => 'Block_14465491816282176da5cef4_29538005',
+    0 => 'Block_92161884562873ea13b5220_33666761',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -145,12 +145,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'product_description'} */
 /* {block 'product_details'} */
-class Block_8893417586282176da5e128_25635026 extends Smarty_Internal_Block
+class Block_155259523562873ea13b6480_36036074 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'product_details' => 
   array (
-    0 => 'Block_8893417586282176da5e128_25635026',
+    0 => 'Block_155259523562873ea13b6480_36036074',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -163,12 +163,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'product_details'} */
 /* {block 'product_attachments'} */
-class Block_15712542016282176da5eda4_63850453 extends Smarty_Internal_Block
+class Block_121681072962873ea13b9074_51759221 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'product_attachments' => 
   array (
-    0 => 'Block_15712542016282176da5eda4_63850453',
+    0 => 'Block_121681072962873ea13b9074_51759221',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

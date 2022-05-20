@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:19:51
+/* Smarty version 3.1.43, created on 2022-05-20 11:34:56
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\admin576auqsvk\themes\new-theme\template\components\layout\employee_dropdown.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282173765d062_06022229',
+  'unifunc' => 'content_628760c0186383_56666478',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '5378a5cb461f26de5d5e90c1f4a50b86d07349c6' => 
     array (
       0 => 'C:\\WebImpacto\\Xampp\\htdocs\\prestashop\\admin576auqsvk\\themes\\new-theme\\template\\components\\layout\\employee_dropdown.tpl',
-      1 => 1651826351,
+      1 => 1652772140,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6282173765d062_06022229 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628760c0186383_56666478 (Smarty_Internal_Template $_smarty_tpl) {
 if ((isset($_smarty_tpl->tpl_vars['employee']->value))) {?>
 <div class="dropdown employee-dropdown">
   <div class="rounded-circle person" data-toggle="dropdown">

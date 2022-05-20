@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:20:44
+/* Smarty version 3.1.43, created on 2022-05-20 09:09:19
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\themes\classic-rocket\templates\catalog\_partials\product-flags.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282176cc8fa98_45715922',
+  'unifunc' => 'content_62873e9fbaa696_59195917',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6cad6b1df788eb984942d956593ba62e9939c3fc' => 
     array (
       0 => 'C:\\WebImpacto\\Xampp\\htdocs\\prestashop\\themes\\classic-rocket\\templates\\catalog\\_partials\\product-flags.tpl',
-      1 => 1652351363,
+      1 => 1652772155,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6282176cc8fa98_45715922 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62873e9fbaa696_59195917 (Smarty_Internal_Template $_smarty_tpl) {
 ?><ul class="product-flags">
     <?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['product']->value['flags'], 'flag');

@@ -28,7 +28,7 @@ class comentarioadicional extends Module{
     {
         if(!parent::install() 
         || !$this->installSql() 
-        ||! $this->registerHook('displayProductAdditionalInfo') 
+        || !$this->registerHook('displayProductAdditionalInfo') 
         || !$this->registerHook('displayAdminProductsMainStepLeftColumnMiddle'))
         {
          
@@ -43,7 +43,7 @@ class comentarioadicional extends Module{
     {
         if(!parent::unistall() 
         || !$this->unistallSql() 
-        || ! $this->unregisterHook('displayProductAdditionalInfo') 
+        || !$this->unregisterHook('displayProductAdditionalInfo') 
         || !$this->unregisterHook('displayAdminProductsMainStepLeftColumnMiddle') )
         {
            

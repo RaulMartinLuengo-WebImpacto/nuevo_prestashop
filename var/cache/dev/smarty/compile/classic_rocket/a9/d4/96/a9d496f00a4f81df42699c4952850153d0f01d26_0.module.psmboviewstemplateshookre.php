@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:13:36
+/* Smarty version 3.1.43, created on 2022-05-17 10:19:00
   from 'module:psmboviewstemplateshookre' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_628215c0747fe1_73414703',
+  'unifunc' => 'content_62835a7438c0e9_64235338',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'a9d496f00a4f81df42699c4952850153d0f01d26' => 
     array (
       0 => 'module:psmboviewstemplateshookre',
-      1 => 1651826362,
+      1 => 1652772150,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_628215c0747fe1_73414703 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62835a7438c0e9_64235338 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\WebImpacto\Xampp\htdocs\prestashop/modules/ps_mbo/views/templates/hook/recommended-modules.tpl -->
 <?php echo '<script'; ?>
 >

@@ -1,4 +1,214 @@
-/*
- * Custom code goes here.
- * A template should always ship with an empty custom.css
- */
+.product-quantity2 {
+    flex-direction: row;
+    align-content: flex-start;
+}
+
+.product-quantity.row.align-items-center.no-gutters {
+    display: grid;
+    justify-items: start;
+    grid-template-columns: 0.4fr 2fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.nput-group.bootstrap-touchspin .bootstrap-touchspin-injected {
+    grid-column: 2/3;
+    width: auto;
+}
+
+.wishlist-button-add.wishlist-button-product {
+    grid-template-columns: 25%/75%;
+    grid-row: 2/3;
+}
+
+.div_stock {
+    display: grid;
+    grid-template-columns: 0.4fr 2fr;
+}
+
+.p_stock {
+    background-color: #d6eed1;
+    padding-left: 5%;
+    color: #458057;
+}
+
+.p_stockout {
+    background-color: red;
+}
+
+.container-iconos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.iconos_partebaja--product {
+    display: inline-flex;
+    width: 100%;
+}
+
+.iconos-garantia {
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+}
+
+.iconos_partebaja--product>* {
+    height: 3em;
+    padding-left: 5%;
+}
+
+.current-price-display.price.current-price-discount {
+    color: #ff6000;
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 44px;
+    margin: 0;
+}
+
+*::selection {
+    background-color: #ff6000;
+    color: white;
+}
+
+.current-price-display.price.current-price-discount {
+    color: #ff6000;
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 44px;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.current-price-display.price {
+    color: #ff6000;
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 44px;
+    margin: 0;
+}
+
+.qty.col-auto {
+    margin: 0;
+}
+
+.address-body,
+.block-categories,
+.card-block,
+.card-body,
+.left-column .search_filters,
+.page-content {
+    margin-top: 5%;
+}
+
+.logo {
+    height: 2.5rem;
+}
+
+.header-top {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;
+    padding: 0% 0% 0% 0%;
+    margin-bottom: 0;
+}
+
+.header__right.header-top__col {
+    width: 30%;
+}
+
+.menu-top {
+    display: flex;
+    /* justify-content: center; */
+    margin: 0;
+    position: relative
+}
+
+.container {
+    width: 100%;
+    padding-right: 0;
+    padding-right: 0;
+}
+
+hr {
+    background-color: black;
+    height: 2px;
+}
+
+.menu {
+    padding-bottom: 0;
+    height: 100%;
+}
+
+.header-nav__right,
+.header__right {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.header-top__col {
+    width: 15%;
+}
+
+@media (min-width:1440px) {
+    .container,
+    .l-wrapper,
+    .l-wrapper--boxed,
+    main>.notifications-container {
+        max-width: 1400px
+    }
+}
+
+@media (min-width:1440px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .l-wrapper,
+    .l-wrapper--boxed,
+    main>.notifications-container {
+        max-width: 1400px
+    }
+}
+
+.product_manufacturer_name {
+    padding-left: 11%;
+}
+
+.nav-tabs {
+    justify-content: start;
+}
+
+.h1 {
+    font-weight: 400;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.tax-shipping-delivery-label {
+    display: none !important;
+}
+
+.btn-primary.add-to-cart:hover {
+    color: #ff6000;
+    background-color: white;
+}
+
+.btn-primary.add-to-cart {
+    border-color: #9B9B9B;
+}
+
+.current-price {
+    padding-top: 1%;
+}
+
+.wishlist-button-add.wishlist-button-product {
+    margin-top: 10%;
+    border: 1px solid #9B9B9B;
+    border-radius: 0%;
+}
+
+hr {
+    height: 0.2%;
+}

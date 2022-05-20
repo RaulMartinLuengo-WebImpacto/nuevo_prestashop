@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:22:07
+/* Smarty version 3.1.43, created on 2022-05-20 09:36:01
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\themes\classic-rocket\templates\catalog\_partials\category-header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_628217bfbf1ab7_72909675',
+  'unifunc' => 'content_628744e1765af9_96646449',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '1a65c316bf7320d6a5d8fb025d62c07032fc6cad' => 
     array (
       0 => 'C:\\WebImpacto\\Xampp\\htdocs\\prestashop\\themes\\classic-rocket\\templates\\catalog\\_partials\\category-header.tpl',
-      1 => 1651826369,
+      1 => 1652772155,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_628217bfbf1ab7_72909675 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628744e1765af9_96646449 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="block-category card-block visible--desktop">
     <div id="_desktop_category_header">
         <h1 class="h1"><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['category']->value['name'], ENT_QUOTES, 'UTF-8');

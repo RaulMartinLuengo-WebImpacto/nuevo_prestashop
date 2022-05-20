@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:22:07
+/* Smarty version 3.1.43, created on 2022-05-20 09:36:00
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\themes\classic-rocket\templates\_partials\font.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_628217bf03fea3_39832901',
+  'unifunc' => 'content_628744e0a7eac0_03454132',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fbc50416f427c7838ad317fb58e2401007d7f9b0' => 
     array (
       0 => 'C:\\WebImpacto\\Xampp\\htdocs\\prestashop\\themes\\classic-rocket\\templates\\_partials\\font.tpl',
-      1 => 1651826369,
+      1 => 1652772155,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_628217bf03fea3_39832901 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628744e0a7eac0_03454132 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <link rel="preconnect" href="//fonts.gstatic.com/" crossorigin>
 <link rel="preconnect" href="//ajax.googleapis.com" crossorigin>

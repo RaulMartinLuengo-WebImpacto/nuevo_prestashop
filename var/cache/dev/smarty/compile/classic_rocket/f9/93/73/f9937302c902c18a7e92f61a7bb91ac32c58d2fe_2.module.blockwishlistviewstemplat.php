@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:16:43
+/* Smarty version 3.1.43, created on 2022-05-19 12:20:28
   from 'module:blockwishlistviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282167b87bf13_73824573',
+  'unifunc' => 'content_628619ec0ba866_63471040',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'f9937302c902c18a7e92f61a7bb91ac32c58d2fe' => 
     array (
       0 => 'module:blockwishlistviewstemplat',
-      1 => 1651826355,
+      1 => 1652772144,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6282167b87bf13_73824573 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628619ec0ba866_63471040 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\WebImpacto\Xampp\htdocs\prestashop/modules/blockwishlist/views/templates/components/modals/delete.tpl -->
 <div
   class="wishlist-delete"

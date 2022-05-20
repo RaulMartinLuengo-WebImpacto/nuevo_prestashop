@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:16:45
+/* Smarty version 3.1.43, created on 2022-05-18 12:22:00
   from 'module:pssearchbarjqautoviewstem' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282167d47e1d3_51458258',
+  'unifunc' => 'content_6284c8c8cdd124_43050774',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fbe4eac6aef0d1f828eb4e4dea07c4608fa0a646' => 
     array (
       0 => 'module:pssearchbarjqautoviewstem',
-      1 => 1651826369,
+      1 => 1652772155,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6282167d47e1d3_51458258 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6284c8c8cdd124_43050774 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\WebImpacto\Xampp\htdocs\prestashop/themes/classic-rocket/modules/ps_searchbarjqauto/views/templates/hook/ps_searchbarjqauto.tpl --><!-- Block search module TOP -->
 <form method="get" action="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['search_controller_url']->value, ENT_QUOTES, 'UTF-8');?>
 " class="search-widget" data-search-widget data-search-controller-url="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['search_controller_url']->value, ENT_QUOTES, 'UTF-8');?>

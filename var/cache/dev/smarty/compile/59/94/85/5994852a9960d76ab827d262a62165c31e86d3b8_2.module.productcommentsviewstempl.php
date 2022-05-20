@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-16 11:17:00
+/* Smarty version 3.1.43, created on 2022-05-19 12:21:24
   from 'module:productcommentsviewstempl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6282168ce16961_35801085',
+  'unifunc' => 'content_62861a24335071_65350274',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '5994852a9960d76ab827d262a62165c31e86d3b8' => 
     array (
       0 => 'module:productcommentsviewstempl',
-      1 => 1651826369,
+      1 => 1652772155,
       2 => 'module',
     ),
   ),
@@ -25,7 +25,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'module:productcomments/views/templates/hook/confirm-modal.tpl' => 1,
   ),
 ),false)) {
-function content_6282168ce16961_35801085 (Smarty_Internal_Template $_smarty_tpl) {
+function content_62861a24335071_65350274 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\WebImpacto\Xampp\htdocs\prestashop/themes/classic-rocket/modules/productcomments/views/templates/hook/product-comments-list.tpl -->
 <?php echo '<script'; ?>
  type="text/javascript">

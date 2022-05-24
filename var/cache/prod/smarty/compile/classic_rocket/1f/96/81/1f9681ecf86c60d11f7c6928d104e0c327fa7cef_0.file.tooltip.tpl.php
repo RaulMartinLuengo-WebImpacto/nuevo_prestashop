@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-20 11:34:56
+/* Smarty version 3.1.43, created on 2022-05-23 17:00:29
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\modules\welcome\views\templates\tooltip.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_628760c065b6f8_25074901',
+  'unifunc' => 'content_628ba18d190814_93462335',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_628760c065b6f8_25074901 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628ba18d190814_93462335 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="onboarding-tooltip">
   <div class="content"></div>

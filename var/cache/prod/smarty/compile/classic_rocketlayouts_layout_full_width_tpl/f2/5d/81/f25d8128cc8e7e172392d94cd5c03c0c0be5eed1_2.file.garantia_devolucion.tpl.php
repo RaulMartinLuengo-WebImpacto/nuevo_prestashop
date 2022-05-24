@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-20 16:31:31
+/* Smarty version 3.1.43, created on 2022-05-23 13:20:44
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\themes\classic-rocket\templates\catalog\_partials\garantia_devolucion.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6287a643767cd3_23969556',
+  'unifunc' => 'content_628b6e0c6732f4_83117336',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,18 +20,18 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6287a643767cd3_23969556 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628b6e0c6732f4_83117336 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_16959614426287a643765777_48614650', 'stock');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_2034877286628b6e0c671686_38883832', 'stock');
 }
 /* {block 'stock'} */
-class Block_16959614426287a643765777_48614650 extends Smarty_Internal_Block
+class Block_2034877286628b6e0c671686_38883832 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'stock' => 
   array (
-    0 => 'Block_16959614426287a643765777_48614650',
+    0 => 'Block_2034877286628b6e0c671686_38883832',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-20 09:36:03
+/* Smarty version 3.1.43, created on 2022-05-23 16:28:10
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_628744e3844973_35126099',
+  'unifunc' => 'content_628b99fa940910_21881612',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_628744e3844973_35126099 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628b99fa940910_21881612 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="custom-text" class="card">
   <div class="card-body">

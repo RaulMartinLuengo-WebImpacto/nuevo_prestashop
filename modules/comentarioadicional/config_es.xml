@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>comentarioadicional</name>
+    <displayName><![CDATA[Comentario adicional producto]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Incluye una casilla adicional en la p&aacute;gina de productos y se muestra en el front]]></description>
+    <author><![CDATA[artulance.com]]></author>
+    <tab><![CDATA[Blocks]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

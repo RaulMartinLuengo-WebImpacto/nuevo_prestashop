@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-20 09:36:00
+/* Smarty version 3.1.43, created on 2022-05-23 13:40:16
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\themes\classic-rocket\templates\_partials\font.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_628744e0a7eac0_03454132',
+  'unifunc' => 'content_628b72a0796ce0_01451812',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_628744e0a7eac0_03454132 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628b72a0796ce0_01451812 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <link rel="preconnect" href="//fonts.gstatic.com/" crossorigin>
 <link rel="preconnect" href="//ajax.googleapis.com" crossorigin>

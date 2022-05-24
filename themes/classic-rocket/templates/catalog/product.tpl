@@ -16,7 +16,10 @@ wish to upgrade PrestaShop to newer * versions in the future. If you wish to cus
             <div class="col-lg-8">
                 {block name='page_header_container'} {block name='page_header'}
                 <h1 class="h1">{block name='page_title'}{$product.name}{/block}</h1>
-                {/block} {/block} {block name='product_prices'} {include file='catalog/_partials/product-prices.tpl'} {/block}
+                <!-- {include file='catalog/_partials/product-prices.tpl'}{/block} -->
+                <div class="prices">
+                    {block name="price"}{include file='catalog/_partials/price-cents-small.tpl'}{/block} {block name='sin-iva'} {/block} {/block} {block name='product_prices'} {include file='catalog/_partials/price-without-tax.tpl'}{/block}
+                </div>
 
                 <div class="product-information">
                     {block name='product_description_short'}

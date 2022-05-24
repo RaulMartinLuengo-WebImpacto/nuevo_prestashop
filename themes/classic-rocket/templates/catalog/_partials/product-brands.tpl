@@ -1,10 +1,8 @@
 <div class="product-brands">
     <ul>
         <li>
-            Marca: {if isset($product.id_manufacturer)}
-            <span class="product_manufacturer_name">{Manufacturer::getnamebyid($product.id_manufacturer)}{/if}</span
+            Marca: {if isset($product.id_manufacturer)}<span class="product_manufacturer_name">{Manufacturer::getnamebyid($product.id_manufacturer)}{/if}</span
       >
-      <li></li>
     </li>
   </ul>
 </div>

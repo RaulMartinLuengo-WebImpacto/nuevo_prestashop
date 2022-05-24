@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-05-20 16:24:01
+/* Smarty version 3.1.43, created on 2022-05-23 13:22:33
   from 'C:\WebImpacto\Xampp\htdocs\prestashop\modules\welcome\views\contents\welcome.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_6287a481328b16_70767638',
+  'unifunc' => 'content_628b6e79f1ca36_08732646',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6287a481328b16_70767638 (Smarty_Internal_Template $_smarty_tpl) {
+function content_628b6e79f1ca36_08732646 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="onboarding-welcome">
   <i class="material-icons onboarding-button-shut-down">close</i>
